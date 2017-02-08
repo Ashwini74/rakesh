@@ -1,0 +1,32 @@
+A. What did you do this week.
+
+1. Refund status change queries  
+2. Market place api queries optimization
+3. settlement mongo upgrade and db restore  and conveting data to WiredTiger Format
+4. UM user deletion
+5. admin point from db2 to db5
+6. Shopclues data generation
+7. Refund report generation from sep till date
+8. Settlement MongoDB Cluster Setup 
+9. db2 reboot for OS patching
+10. db1 reboot for OS Patching
+
+
+B. What do you plan to do next week
+1. SRT Logic Discussion with Nishant
+2. OL Analytics server setup and adding the server in Production Cluster 
+3. Plan for DB upgrade for Blazecard Production servers 
+4. Plan for DB upgrade for Marketplace Production servers 
+
+
+
+C. What key challenges/blockers or decisions you need to resolve
+
+Sometimes there are lot parallel tasks comes so its gets difficult to define the priority of the each task . 
+
+
+
+
+D.Key dates of upcoming important achievements that you are planning
+5. Plan for DB upgrade for Blazecard Production servers  (Next Week )
+6. Plan for DB upgrade for Marketplace Production servers (Next Week)
